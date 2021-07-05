@@ -1,1 +1,1 @@
-# guitarknowledge.com
+# guitarknowledge
